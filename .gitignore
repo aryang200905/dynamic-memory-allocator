@@ -1,0 +1,9 @@
+# Build artifacts
+*.o
+*.a
+*.so
+test_heap
+
+# Debug bundles / OS files
+*.dSYM/
+.DS_Store
